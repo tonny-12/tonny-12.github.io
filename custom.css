@@ -1,0 +1,14 @@
+body {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.navbar-text > a{
+	color: inherit;
+	text-decoration: none;
+}
